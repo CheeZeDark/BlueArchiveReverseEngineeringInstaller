@@ -1,6 +1,6 @@
 # BlueArchiveReverseEngineeringInstaller
 
-This is Scripts for Reversing Blue Archive!!! Enjoy to use!!!
+This is Scripts for Reversing Blue Archive(Only Installer)!!! Enjoy to use!!!
 
 ## Donations
 
